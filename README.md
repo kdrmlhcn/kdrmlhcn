@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ServisTakip](https://www.servistakip.com.tr)
 
-- 🌱 I’m currently learning **golang**
+- 🌱 I’m currently learning **Vue.js**
 
 - 💬 Ask me about **php, mysql, laravel**
 
