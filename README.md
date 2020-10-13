@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kadir Melih Can</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kdrmlhcn" alt="kdrmlhcn" /> </p>
-
 - 💬 Ask me about **php, mysql, laravel**
 
 - 📫 How to reach me **kadirmelihcan@gmail.com**
@@ -30,6 +28,8 @@
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kdrmlhcn" alt="kdrmlhcn" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdrmlhcn&layout=compact&hide=html" alt="kdrmlhcn" /></p>
 
