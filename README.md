@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdrmlhcn" alt="kdrmlhcn" /> </p>
 
-- 🔭 I’m currently working on [ServisTakip](https://www.servistakip.com.tr)
-
 - 💬 Ask me about **php, mysql, laravel**
 
 - 📫 How to reach me **kadirmelihcan@gmail.com**
