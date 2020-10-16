@@ -27,7 +27,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdrmlhcn" alt="kdrmlhcn" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdrmlhcn&layout=compact&hide=html" alt="kdrmlhcn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdrmlhcn&layout=compact&hide=html&count_private=true" alt="kdrmlhcn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdrmlhcn&show_icons=true" alt="kdrmlhcn" /></p>
 
