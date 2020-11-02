@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kadir Melih Can</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 💬 Ask me about **php, mysql, laravel**
+- 💬  Ask me about **php, mysql, laravel**
 
-- 📫 How to reach me **kadirmelihcan@gmail.com**
+- 📫. How to reach me **kadirmelihcan@gmail.com**
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
