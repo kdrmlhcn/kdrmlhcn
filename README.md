@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Melih </h1>
 
 <p align='center'>
-  I live on Istanbul, Turkey and work at <b>CLevel</b> 
+  I live in Istanbul, Turkey and work at <b>CLevel</b> 
 </p>
 
 <!-- <p align='center'>
