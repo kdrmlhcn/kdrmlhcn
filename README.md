@@ -57,12 +57,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h4>🌱 I'm currently learning...</h4>
-<p >
-  <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
-</p>
-
 
 <p align='right'>
 <h4>💬 Sometimes I like to write things here...</h4>
